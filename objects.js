@@ -1,1 +1,1 @@
-var playlist = new Object { 'Frank Sinatra':'My Way' }
+var playlist = new Object { FrankSinatra:'My Way' }
